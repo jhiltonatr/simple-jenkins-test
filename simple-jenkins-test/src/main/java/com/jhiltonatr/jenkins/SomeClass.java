@@ -3,7 +3,7 @@ package com.jhiltonatr.jenkins;
 public class SomeClass {
 
 	public static Object doSomething() {
-		return "OK";
+		return "FAILING AGAIN, Damn you devs!!";
 	}
 
 }
