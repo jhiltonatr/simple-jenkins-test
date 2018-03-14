@@ -1,7 +1,9 @@
 package com.jhiltonatr.jenkins;
 
-public class SomeClass {
+public final class SomeClass {
 
+	private SomeClass() {}
+	
 	public static Object doSomething() {
 		return "OK";
 	}
